@@ -417,17 +417,6 @@ source .venv/bin/activate
 
 ---
 
-## Future Improvements
-
-- [ ] Add Cooling Load prediction (second target variable)
-- [ ] Implement more advanced models (XGBoost, Random Forest)
-- [ ] Add feature importance visualization in the app
-- [ ] Create API endpoint for programmatic access
-- [ ] Add batch prediction for multiple buildings
-- [ ] Deploy to Hugging Face Spaces
-
----
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
